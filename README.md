@@ -11,7 +11,7 @@ Show some love 💙 and Star ⭐️ the Repository to support the project.
 
 ## :rocket: Get Up and Running in 5 Minutes
 
-You can get the Covid19-Vijay App up and running on your local dev environment in 5 minutes with these four steps:
+You can get the News App up and running on your local dev environment in 5 minutes with these four steps:
 
 1. **Install the Flutter SDK & Android Studio. [Instructions](https://medium.com/enappd/install-flutter-on-windows-and-mac-1fd1dde453ba).**
 
